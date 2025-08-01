@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ivan Aryasatya
 
-🎓 I'm a 10th-grade student from SMPN 16 Malang, Now I am studying at SMK Telkom Malang. Born in 2009 with a deep passion for **technology, electronics, and computers**. I spend most of my time exploring code, tinkering with circuits, and turning crazy ideas into working prototypes.
+🎓 I'm a 10th-grade student from SMK Telkom Malang born in 2009 with a deep passion for **technology, electronics, and computers**. I spend most of my time exploring code, tinkering with circuits, and turning crazy ideas into working prototypes.
 
 ## 📄 My Portfolio
 
@@ -29,8 +29,8 @@ It contains all my projects and details about me:
 - ESP8266 (Arduino IDE)
 - Servo Motor for dispensing
 - Real-Time Clock (RTC)
-- WebServer UI with WiFi AP Mode
-- Optional Firebase or MQTT (upcoming!)
+- WebServer UI
+- Firebase database
 
 ### 🚀 Why I Built It:
 Because pets deserve tech too! And because I wanted to learn more about **IoT systems**, scheduling, and real-world device reliability.
