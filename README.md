@@ -1,6 +1,12 @@
 # 👋 Hello, I'm Ivan Aryasatya
 
-🎓 I'm a 9th-grade student from SMPN 16 Malang, born in 2009 with a deep passion for **technology, electronics, and computers**. I spend most of my time exploring code, tinkering with circuits, and turning crazy ideas into working prototypes.
+🎓 I'm a 10th-grade student from SMPN 16 Malang, Now I am studying at SMK Telkom Malang. Born in 2009 with a deep passion for **technology, electronics, and computers**. I spend most of my time exploring code, tinkering with circuits, and turning crazy ideas into working prototypes.
+
+## 📄 My Portfolio
+
+You can see my latest portfolio at this link.
+It contains all my projects and details about me:
+[Main Portfolio](https://s.id/ivanarya-portfolio)
 
 ## 🛠️ My Skills
 
